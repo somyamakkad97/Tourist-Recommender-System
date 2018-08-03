@@ -28,13 +28,13 @@ Aim to develop a personalized travel planning system that simultaneously conside
 <img src="images/img.png" width="600px" >
 <img src="images/img1.png" width="300px" height="400px">
 
-## Content Based Filtering
+#### Content Based Filtering
 Content-based filtering is used to calculate a degree of similarity between the users and the items to be recommended. The process is carried out by comparing the features of the item with respect to the user’s preferences. 
 
 <img src="images/img2.png" width="600px" >
 
 
-## Collaborative Filtering
+#### Collaborative Filtering
 Collaborative filtering techniques are recommendation methods based on the opinions of a set of users.The methods based on items predict the interest of the user on an activity a considering the evaluation that this user has given to similar activities
 
 <img src="images/img3.png" width="600px" >
