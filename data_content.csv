@@ -1,0 +1,33 @@
+category,distance,duration,nearby_places,title,url,p_rating,count,itemId
+ Wildlife,6 Kms,1-2 Hours,None,Jaipur Zoo,/rajasthan/jaipur/jaipur-zoo,2.2,158,1
+ Heritage,6 Kms,1-2 Hours,None,Nahargarh Fort,/rajasthan/jaipur/nahargarh-fort,4.6,652,2
+ Heritage,13 Kms,2-3 Hours,"Jaigarh Fort (1 km by walk), Srijagat Siromaniji Temple (500m), Panna Meena ka Kund (1 km) & Jama Masjid / Akbari Mosque - Amer (1 km) are sitauted near Amer Fort and can be visited together.",Amer Fort / Amber Fort,/rajasthan/jaipur/amer-fort-amber-fort,5,783,3
+ Pilgrimage,6 Kms,1-2 Hours,None,Birla Mandir,/rajasthan/jaipur/birla-mandir,4.9,482,4
+ Heritage,6 Kms,30 Mins,None,Hawa Mahal,/rajasthan/jaipur/hawa-mahal,4.2,890,5
+ Heritage,9 Kms,30 Mins,None,Maharani Ki Chhatri,/rajasthan/jaipur/maharani-ki-chhatri,1.9,656,6
+ Pilgrimage,6 Kms,30 Mins,None,Moti Dungri Ganesh Temple,/rajasthan/jaipur/moti-dungri-ganesh-temple,4.5,350,7
+ Park,11 Kms,1 Hour,None,Kanak Vrindavan Garden,/rajasthan/jaipur/kanak-vrindavan-garden,2,700,8
+ Heritage,5.5 Kms,1-2 Hours,"Hawa Mahal (One the edge of City Palace), Jantar Mantar (adjacent to City Palace), Govind Devji Temple (Inside City Palace Complex), Sargasuli Tower / Isar Lat (Near Tripolia Gate of City Palace) can be visited along with City Palace.",City Palace / Sawai Man Singh II Museum,/rajasthan/jaipur/city-palace-sawai-man-singh-ii-museum,3.2,25,9
+ Pilgrimage,6.5 Kms,1-2 Hours,None,Akshardham Temple,/rajasthan/jaipur/akshardham-temple,5,345,10
+ Heritage,14 Kms,30 Mins,None,Panna Meena Ka Kund,/rajasthan/jaipur/panna-meena-ka-kund,4.8,120,11
+ Heritage,5.5 Kms,1 Hour,This is UNESCO World Heritage Site,Jantar Mantar,/rajasthan/jaipur/jantar-mantar,1.5,456,12
+ Pilgrimage,11 Kms,1-2 Hours,None,Khole Ke Hanuman Ji Temple,/rajasthan/jaipur/khole-ke-hanuman-ji-temple,3.5,990,13
+" Heritage, Museum",6 Kms,1-2 Hours,None,Albert Hall Museum,/rajasthan/jaipur/albert-hall-museum,4,222,14
+ Pilgrimage,7 Kms,30 Mins,None,Garh Ganesh Temple,/rajasthan/jaipur/garh-ganesh-temple,1.5,43,15
+ Heritage,11 Kms,1 Hour,"Maharani ki Chhatri (1 km from Jal Mahal), Kanak Vrindavan Garden (1 km from Jal Mahal) can be visited along with Jal Mahal.",Jal Mahal,/rajasthan/jaipur/jal-mahal,4.2,678,16
+" Heritage, Pilgrimage",13.5 Kms,30 Mins,None,Jama Masjid / Akbari Mosque - Amer,/rajasthan/jaipur/jama-masjid-akbari-mosque-amer,2,789,17
+ Heritage,6 Kms,1 Hour,"This is currently a private hotel, but visitors are allowed to take a tour of the palace.",Rambagh Palace,/rajasthan/jaipur/rambagh-palace,3.2,567,18
+ Park,4 Kms,1 Hour,None,Central Park,/rajasthan/jaipur/central-park,3.8,245,19
+ Heritage,15 Kms,1-2 Hours,This is usually visited from Amer Fort (1 km by walk),Jaigarh Fort,/rajasthan/jaipur/jaigarh-fort,4.5,890,20
+ Park,13 Kms,1-2 Hours,None,Jawahar Circle Garden,/rajasthan/jaipur/jawahar-circle-garden,4.2,13,21
+ Heritage,7 Kms,1 Hour,None,Gatore ki Chhatriyan,/rajasthan/jaipur/maharaja-ki-chhatri-gaitor,1,123,22
+ Heritage,4 Kms,30 Mins,None,Statue Circle / Sawai Jai Singh Circle,/rajasthan/jaipur/statue-circle-sawai-jai-singh-circle,5,67,23
+ Pilgrimage,14 Kms,2 Hours,None,ISKCON Temple,/rajasthan/jaipur/iskcon-temple,3.9,412,24
+ Heritage,40 Kms,4 Hours/Half Day,None,Samode Palace / Samode Bagh,/rajasthan/jaipur/samode-palace-samode-bagh,4.8,25,25
+ Heritage,5 Kms,15 Mins or Less,None,Sargasuli Tower / Isar Lat,/rajasthan/jaipur/sargasuli-tower-isar-lat,3.5,654,26
+" Heritage, Pilgrimage",14 Kms,30 Mins,None,Srijagat Siromaniji Temple,/rajasthan/jaipur/srijagat-siromaniji-temple,2.9,134,27
+ Museum,14 Kms,2 Hours,None,Anokhi Museum Of Hand Printing,/rajasthan/jaipur/anokhi-museum-of-hand-printing,1.7,560,28
+ Heritage,5 Kms,30 Mins,None,Amar Jawan Jyoti,/rajasthan/jaipur/amar-jawan-jyoti,5,348,29
+" Heritage, Pilgrimage",14.5 Kms,2 Hours,None,Digamber Jain Mandir Sanghiji,/rajasthan/jaipur/digamber-jain-mandir-sanghiji,3.7,48,30
+" Heritage, Pilgrimage",7 Kms,30 Mins,None,Govind Devji Temple,/rajasthan/jaipur/govind-devji-temple,1.5,654,31
+ Museum,1 Kms,1 Hour,None,SRC Museum Of Indology,/rajasthan/jaipur/src-museum-of-indology,4.2,56,32
